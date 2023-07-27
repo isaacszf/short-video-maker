@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "get-audio-duration": "^4.0.1-beta.0",
+    "node-html-parser": "^6.1.5"
+  },
+  "scripts": {
+    "flags": "node guess/flags.js && node guess/generateAudios.js",
+    "choices": "node choice/generateAudios.js"
+  }
+}

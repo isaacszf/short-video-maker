@@ -1,0 +1,74 @@
+[
+  [
+    {
+      "choice": "Nunca mais tomar café",
+      "picture": "https://i.imgur.com/mKkm2zt.png",
+      "percentage": 54
+    },
+    {
+      "choice": "Nunca mais tomar refrigerante",
+      "picture": "https://i.imgur.com/JGocAfi.png",
+      "percentage": 46
+    }
+  ],
+  [
+    {
+      "choice": "Nunca mais tomar leitinho",
+      "picture": "https://i.imgur.com/eREg8W4.png",
+      "percentage": 34
+    },
+    {
+      "choice": "Nunca mais tomar suco",
+      "picture": "https://i.imgur.com/NqwYoPq.png",
+      "percentage": 66
+    }
+  ],
+  [
+    {
+      "choice": "Nunca mais comer carne",
+      "picture": "https://i.imgur.com/1SX2SUC.png",
+      "percentage": 72
+    },
+    {
+      "choice": "Nunca mais comer frutas",
+      "picture": "https://i.imgur.com/9sOHUIL.png",
+      "percentage": 28
+    }
+  ],
+  [
+    {
+      "choice": "Nunca mais comer hamburger",
+      "picture": "https://i.imgur.com/qbmnanz.png",
+      "percentage": 55
+    },
+    {
+      "choice": "Nunca mais comer pizza",
+      "picture": "https://i.imgur.com/xuxfODj.png",
+      "percentage": 45
+    }
+  ],
+  [
+    {
+      "choice": "Nunca mais comer peixe",
+      "picture": "https://i.imgur.com/gwzLdkC.png",
+      "percentage": 82
+    },
+    {
+      "choice": "Nunca mais comer frango",
+      "picture": "https://i.imgur.com/i0PFZYj.png",
+      "percentage": 18
+    }
+  ],
+  [
+    {
+      "choice": "Nunca mais comer chocolate",
+      "picture": "https://i.imgur.com/vaHzhSi.png",
+      "percentage": 30
+    },
+    {
+      "choice": "Nunca mais comer morango",
+      "picture": "https://i.imgur.com/Mjo3wP2.png",
+      "percentage": 70
+    }
+  ]
+]
